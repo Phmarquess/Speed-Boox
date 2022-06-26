@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "speedbox3",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "urlRoot": "http://192.168.100.25:3000/",
+  "origin": "Av. Paulista, 200 - São Paulo / SP",
+  "geocodingAPI": "AIzaSyCGiLgs_T1VeHrcXsiV1NPIlQK3XgHSo8A"
+}
